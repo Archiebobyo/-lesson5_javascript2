@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+2/24/2017
 
 ### Student Name:  
-(First and Last Name)
+Gregory Gruse
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://archiebobyo.github.io/-lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to use if and else statments
+2. Learned how to use getElementById method
+3. learned how to nestled if statments
